@@ -1,7 +1,7 @@
 <!-- README.md -->
 <h1 align="center">🚀 GOTradeX Trading System</h1>
 <p align="center">
-  <strong>A trading system with real-time data processing and algorithmic trading capabilities on Websocket.</strong>
+  <strong>A trading system with real-time data processing and algorithmic trading capabilities using Websocket.</strong>
 </p>
 
 ---
