@@ -20,15 +20,25 @@
 
 ## ⚙️ Installation
 ```sh
-# Clone the repository
+
+### 1. Install Boost
+This project uses Boost, so you'll need to install it:
+
+sudo apt install libboost-all-dev
+### 2 . Set up your environment
+To set your DERIBIT_CLIENT_ID and DERIBIT_CLIENT_SECRET environment variables, use the following commands:
+
+export DERIBIT_CLIENT_ID="-KMaTemj"
+export DERIBIT_CLIENT_SECRET="y4OppXY0Do1fkfCCG-wwXFZoooGdn38lxKE-ZBJN-V0"
+
+### 3. Clone the repository
 git clone https://github.com/MohitGupta2021/GoTradexX.git
 cd GoTradexX
-
-# Build the project
+### 4. Build the project
 mkdir build && cd build
 cmake .. && make
 
-# Run the system
+### 5. Run the system
 ./d
 ```
 
