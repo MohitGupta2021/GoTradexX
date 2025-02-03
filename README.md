@@ -14,9 +14,9 @@
 ✅ Interactive UI with live charts and trade monitoring
 
 ## 📂 Project Structure
-```bash
+
 ![image](https://github.com/user-attachments/assets/e61b702b-94a1-4039-8c51-876c9680b046)
-```
+
 
 ## ⚙️ Installation
 ```sh
