@@ -1,0 +1,3 @@
+/home/hellomohit777888/GoTradeX/build/CMakeFiles/d.dir
+/home/hellomohit777888/GoTradeX/build/CMakeFiles/edit_cache.dir
+/home/hellomohit777888/GoTradeX/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/d.dir/DeribitClient.cpp.o CMakeFiles/d.dir/TradingSystem.cpp.o CMakeFiles/d.dir/Rtm_Server.cpp.o CMakeFiles/d.dir/main.cpp.o -o d  -lboost_system -lboost_json -lssl -lcrypto 
