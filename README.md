@@ -54,7 +54,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <p align="center">Made with ❤️ by <a href="https://github.com/MohitGupta2021">MohitGupta</a></p>
 
 
-<style>
-h1 { color: #3498db; }
-p { font-size: 16px; }
-</style>
+
