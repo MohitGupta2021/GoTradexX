@@ -8,10 +8,8 @@
 
 ## 📌 Features
 ✅ Real-time market data processing<br>
-✅ Algorithmic trading strategies<br>
 ✅ Multi-threaded execution<br>
 ✅ Secure API integration with brokers<br>
-✅ Interactive UI with live charts and trade monitoring
 
 ## 📂 Project Structure
 
